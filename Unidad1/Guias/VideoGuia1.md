@@ -3,10 +3,10 @@
 - **CARRERA:** INGENIERÍA EN SOFTWARE
 - **NRC:** 36839
 - **ASIGNATURA:** ANÁLISIS Y DISEÑO DE SOFTWARE
-- **TEMA:** IREB y modelo de comprobación
+- **TEMA:** GUIA 1 - Casos de Uso
 - **TRABAJO:** GRUPAL
 - **DOCENTE:** Ing. Jenny Ruiz
-- **FECHA:** 12 de Octubre del 2026
+- **FECHA:** 19 de Octubre del 2026
 
 ### Integrantes:
 - Jonathan Ampuero
